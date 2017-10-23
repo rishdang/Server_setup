@@ -1,8 +1,7 @@
 #!/bin/bash
 # PLEASE NOTE!
 # customized by Rishabh Dangwal / admin@theprohack.com, tested on debian 8 (with rvm)
-# based on harmjoy & ctpjesus's original script, includes provisions
-# for scaleway & ovh compatibility.
+# based on  @cptjesus and @Killswitch_GUI original script, have added, removed a lot of code unrelated to my environment.
 # This is still a work in progress, use at your own risk in an isolated/test environment, if it breaks something, I will be the one laughing at you.
 # PLEASE NOTE!
 
